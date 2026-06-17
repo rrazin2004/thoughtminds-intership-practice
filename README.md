@@ -1,7 +1,7 @@
 # thoughtminds-intership-practice
 
 ## Name
-Muhammed razin
+Mohamed razin
 ## Degree / Department
 BTECH
 
