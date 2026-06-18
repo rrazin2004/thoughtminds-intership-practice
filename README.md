@@ -3,7 +3,7 @@
 ## Name
 Mohamed razin
 ## Degree / Department
-BTECH
+BTECH (AI And DS)
 
 ## College
 Mentor Engineering College
